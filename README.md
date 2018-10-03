@@ -4,7 +4,7 @@
 
 Submitted by: **Sherin Stephen**
 
-Time spent: **1** hours spent in total
+Time spent: **2** hours spent in total
 
 ## User Stories
 
@@ -23,12 +23,14 @@ The following **additional** features are implemented:
 
 - [ ] List anything else that you can get done to improve the app functionality!
 
+## Notes 
+
+
 ## Video Walkthrough 
 
 Here's a walkthrough of implemented user stories:
 
 <img src='http://shinchatea.com/wp-tmpn/s.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
 
 
 ## License
